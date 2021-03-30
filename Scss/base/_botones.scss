@@ -1,6 +1,7 @@
 /*--------------------------------*\
     $BUTTOMS
 \*--------------------------------*/
+
 .btn {
     display: inline-block;
     color: $buttoncolor;
@@ -11,11 +12,11 @@
     &__icon {
         font-size: .6em;
     }
-
     &.btn--info {
         background-color: $color-info;
     }
 }
+
 // B: .btn
 //     E
 // M
