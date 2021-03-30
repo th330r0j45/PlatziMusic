@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../Scss/Styleguide/styleguide.scss",
+        "../Scss/Styleguide/_styleguide-elements.scss"
+    ],
+    "names": [],
+    "file": "styleguide.css"
+}
